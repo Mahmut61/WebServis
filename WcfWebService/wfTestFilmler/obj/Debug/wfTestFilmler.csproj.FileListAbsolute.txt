@@ -1,0 +1,18 @@
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\bin\Debug\wfTestFilmler.exe.config
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.Form1.resources
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\bin\Debug\wfTestFilmler.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\bin\Debug\wfTestFilmler.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.pdb
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\bin\Debug\wfTestFilmler.exe.config
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.exe
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.pdb
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\bin\Debug\wfTestFilmler.exe
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\bin\Debug\wfTestFilmler.pdb
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.Form1.resources
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\wfTestFilmler\obj\Debug\wfTestFilmler.csproj.GenerateResource.Cache

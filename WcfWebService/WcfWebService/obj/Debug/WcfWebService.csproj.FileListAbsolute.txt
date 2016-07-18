@@ -1,0 +1,12 @@
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\obj\Debug\WcfWebService.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\bin\WcfWebService.dll.config
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\bin\WcfWebService.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\bin\WcfWebService.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\obj\Debug\WcfWebService.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\obj\Debug\WcfWebService.pdb
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\obj\Debug\WcfWebService.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\obj\Debug\WcfWebService.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\obj\Debug\WcfWebService.pdb
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\bin\WcfWebService.dll.config
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\bin\WcfWebService.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\WcfWebService\WcfWebService\bin\WcfWebService.pdb
